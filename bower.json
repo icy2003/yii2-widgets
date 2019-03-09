@@ -1,0 +1,18 @@
+{
+  "name": "yii2-widgets",
+  "homepage": "https://github.com/icy2003/yii2-widgets",
+  "authors": [
+    "icy2003 <2317216477@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "BSD-2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower-asset",
+    "test",
+    "tests"
+  ]
+}

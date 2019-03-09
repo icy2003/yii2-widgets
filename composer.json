@@ -1,0 +1,26 @@
+{
+    "name": "icy2003/widgets",
+    "description": "icy2003's yii2 widgets",
+    "type": "library",
+    "keywords": [
+        "php",
+        "yii2",
+        "widget"
+    ],
+    "minimum-stability": "dev",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "icy2003",
+            "email": "2317216477@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "icy2003\\widgets": ""
+        }
+    }
+}
