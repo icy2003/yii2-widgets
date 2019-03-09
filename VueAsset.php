@@ -5,6 +5,9 @@ namespace icy2003\widgets;
 use yii\web\AssetBundle;
 use yii\web\View;
 
+/**
+ * bower install vue --save
+ */
 class VueAsset extends AssetBundle
 {
     public $sourcePath = '@bower/vue/dist';
