@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.4",
+        "icy2003/php": "dev-master"
     },
     "autoload": {
         "psr-4": {
